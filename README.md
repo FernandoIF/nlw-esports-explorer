@@ -2,7 +2,7 @@
 
 >## Trilha Explorer
 
-Projeto construído no envento Next Level Week da Rockeseat
+Projeto construído no evento Next Level Week da Rockeseat
 
 ![preview](./.github/preview.png)
 
